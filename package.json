@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "typescript": "^5.1.3"
+  }
+}
