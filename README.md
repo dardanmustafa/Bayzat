@@ -11,7 +11,7 @@ This project contains automated tests for Bayzat's employee management system us
    git clone https://github.com/dardanmustafa/Bayzat.git
    ```
    ```bash
-   cd "StarLabs - Bayzat"
+   cd "Bayzat-main"
    ```
 2. Install dependencies:
    ```bash
