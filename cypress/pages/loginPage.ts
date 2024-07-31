@@ -1,6 +1,5 @@
 class LoginPage {
 	loginButton = '.style__Text-sc-58yt2r-2.unNmF';
-	// logInTitleSelector = 'login-title';
 	logInEmailSelector = 'textfield-username';
 	logInPasswordSelector = 'password-text-input-password';
 	submitLoginButtonSelector = 'submit-button';

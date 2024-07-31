@@ -10,11 +10,11 @@ const dashboardPage = new DashboardPage();
 
 describe('Bayzat Employee Management Test', () => {
 	const employee = {
-		preferredName: 'Jonny',
-		firstName: 'John',
-		lastName: 'Doe',
+		preferredName: 'Dard',
+		firstName: 'Dardan',
+		lastName: 'Mustafa',
 		nationality: 'Republic of Kosovo',
-		dateOfBirth: '01012000',
+		dateOfBirth: '14021995',
 	};
 
 	it('should allow adding, searching, selecting, and deleting an employee', () => {
